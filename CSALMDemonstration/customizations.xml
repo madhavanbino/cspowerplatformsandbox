@@ -521,7 +521,7 @@
               <LookupStyle>single</LookupStyle>
               <LookupTypes />
               <displaynames>
-                <displayname description="Owning Team" languagecode="1033" />
+                <displayname description="Owning Teams" languagecode="1033" />
               </displaynames>
               <Descriptions>
                 <Description description="Unique identifier for the team that owns the record." languagecode="1033" />
@@ -3249,7 +3249,7 @@
                 <IntroducedVersion>1.0</IntroducedVersion>
                 <IsCustomizable>1</IsCustomizable>
                 <displaynames>
-                  <displayname description="Status Reason" languagecode="1033" />
+                  <displayname description="Status Reason(s)." languagecode="1033" />
                 </displaynames>
                 <Descriptions>
                   <Description description="Reason for the status of the CS Time Off Request" languagecode="1033" />
