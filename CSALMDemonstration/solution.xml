@@ -1,4 +1,4 @@
-<ImportExportXml version="9.2.22122.168" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImportExportXml version="9.2.22123.204" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
     <UniqueName>CSALMDemonstration</UniqueName>
     <LocalizedNames>
@@ -81,6 +81,8 @@
       <RootComponent type="1" schemaName="csalmpub_csapprovers" behavior="0" />
       <RootComponent type="1" schemaName="csalmpub_csmanagers" behavior="0" />
       <RootComponent type="1" schemaName="csalmpub_cstimeoffrequest" behavior="0" />
+      <RootComponent type="1" schemaName="csalmpub_immediatemanagers" behavior="0" />
+      <RootComponent type="1" schemaName="csalmpub_managerapprovals" behavior="0" />
       <RootComponent type="62" schemaName="csalmpub_Approvers" behavior="0" />
       <RootComponent type="62" schemaName="csalmpub_TimeoffApprovals" behavior="0" />
       <RootComponent type="62" schemaName="csalmpub_TimeOffRequests" behavior="0" />
